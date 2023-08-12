@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Investigation Discovery HD
-http://142.4.216.60:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729&xs=_we_aW1uOTAweTBzdmNyZHp1fDE0MjAyMDQ3Mjl8NzIuMjcuMjE0LjMzfDU0YTYwZTE5YzRjNzZ8NjQ5Y2VkYTk3MTI3ZmJhYTA5YWI3ZDdkYTEyYWM3ZDgzYTMzMjYwMg
+http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/26.ts
 #EXTINF:0,El Nueve 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:0,El Trece 
