@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:0,DISCOVERY CHANNEL
 http://xc.cobra-iptv.com:25461/live/2000/2000/1739.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
+#EXTINF:0,INVESTIGATION DISCOVERY
 http://xc.cobra-iptv.com:25461/live/2000/2000/1738.ts
 #EXTINF:0,El Nueve 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
