@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:0,TLC 
-https://live.telelatinohd.com/be470f96-c7fb-4673-b29e-bb3460985c5e
-#EXTINF:0,FOX 
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8 
-#EXTINF:0,Discovery Channel  
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8 
-#EXTINF:0,National Geographic 
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8 
+EXTINF:-1,[COLOR blue]Fox[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
+EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+EXTINF:-1,[COLOR blue]Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+EXTINF:-1,[COLOR blue]National Geographic[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
 #EXTINF:0,El Nueve 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:0,El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:0,TV Publica 
-https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true
