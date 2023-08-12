@@ -265,11 +265,19 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:-1,TLC https://live.telelatinohd.com/be470f96-c7fb-4673-b29e-bb3460985c5e
-#EXTINF:-1,FOX http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8 
-#EXTINF:-1,Discovery Channel  http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8 
-#EXTINF:-1,National Geographic http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8 
-#EXTINF:-1,El Nueve https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
-#EXTINF:-1,El Palomar https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,El Trece https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV Publica https://vmf.edge-apps.net/7e5f2d54-512c-46ee-8a4d-4d9334a2bad6
+#EXTINF:0,TLC 
+https://live.telelatinohd.com/be470f96-c7fb-4673-b29e-bb3460985c5e
+#EXTINF:0,FOX 
+http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8 
+#EXTINF:0,Discovery Channel  
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8 
+#EXTINF:0,National Geographic 
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8 
+#EXTINF:0,El Nueve 
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
+#EXTINF:0,El Palomar 
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,El Trece 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Publica 
+https://vmf.edge-apps.net/7e5f2d54-512c-46ee-8a4d-4d9334a2bad6
