@@ -1,6 +1,6 @@
 #EXTM3U
 EXTINF:0,Discovery Channel
-http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 EXTINF:0,National Geographic
 http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
 #EXTINF:0,El Nueve 
