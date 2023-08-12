@@ -25,8 +25,7 @@ http://158.69.117.73:8000/live/live/1303.ts1498.ts
 http://158.69.117.73:8000/live/live/1303.ts1500.ts
 #EXTINF:-1,TLNOVELAS
 http://158.69.117.73:8000/live/live/1303.ts1473.ts
-#EXTINF:-1,TLC
-http://158.69.117.73:8000/live/live/1303.ts1495.ts
+#EXTINF:-1,TLC https://live.telelatinohd.com/be470f96-c7fb-4673-b29e-bb3460985c5e
 #EXTINF:-1,TIIN
 http://158.69.117.73:8000/live/live/1303.ts1485.ts
 #EXTINF:-1,THEATER
