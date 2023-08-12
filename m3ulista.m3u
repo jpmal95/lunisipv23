@@ -1,8 +1,8 @@
 #EXTM3U
-EXTINF:0,Discovery Channel
-http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-EXTINF:0,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xc.cobra-iptv.com:25461/live/2000/2000/1739.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://xc.cobra-iptv.com:25461/live/2000/2000/1738.ts
 #EXTINF:0,El Nueve 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:0,El Trece 
