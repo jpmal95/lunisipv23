@@ -1,9 +1,9 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png" 
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png", A24 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-name="C5N" 
+#EXTINF:-1 tvg-name="C5N", C5N 
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+#EXTINF:-1 tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
