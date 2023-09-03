@@ -11,3 +11,5 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,C10 Tucuman
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/media-u4mmiaply_24569.ts
+#EXTINF:-1,TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1693840385~acl=%2f*~data=hdntl~hmac=4e28543eb0aadf9f4a54440cb2ec5d8ff0f4e1470a23d3b93e770c99a0e78293/master-mtlf.m3u8
