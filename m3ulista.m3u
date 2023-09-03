@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Canal 12 CBA
-https://www.youtube.com/embed/eoL3NU7DFTw
+https://youtu.be/eoL3NU7DFTw
 #EXTINF:0,El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,TN
-https://www.youtube.com/embed/HPiv1pzIPRc
+https://youtu.be/HPiv1pzIPRc
 #EXTINF:-1,Cronica TV
-https://www.youtube.com/embed/avly0uwZzOE
+https://youtu.be/avly0uwZzOE
 #EXTINF:-1,C5N
-https://www.youtube.com/embed/39RJ2lb2irE
+https://youtu.be/39RJ2lb2irE
 #EXTINF:-1,TV Publica
-https://youtu.be/live/HdNCL675314?si=tnQwc7rsFEVZXyJm
+https://youtu.be/HdNCL675314
+#EXTINF:-1,EL NUEVE
+https://youtu.be/HNNSYYmP7qs
 #EXTINF:-1,C10 Tucuman
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/media-u4mmiaply_24569.ts
