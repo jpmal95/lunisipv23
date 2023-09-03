@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" group-title="Argentina",TN Todo Noticias
+#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-name="C5N" 
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
