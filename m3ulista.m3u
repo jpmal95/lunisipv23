@@ -1,9 +1,13 @@
-#EXTM3U
-#EXTINF:-1,Investigation Discovery HD
 http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/26.ts
 #EXTINF:0,El Nueve 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:0,El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:0,TN
-https://www.youtube.com/watch?v=HPiv1pzIPRc
+#EXTINF:-1,TN
+https://youtu.be/HPiv1pzIPRc
+#EXTINF:-1,Cronica TV
+https://youtu.be/avly0uwZzOE
+#EXTINF:-1,C5N
+https://youtu.be/39RJ2lb2irE
+#EXTINF:-1,TV Publica
+https://youtu.be/HdNCL675314
